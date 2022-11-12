@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+syncbinancnt.online	TRUE	/	FALSE	1999999999	csrftoken	OSUNbtANlD3WB1Pu7XUSeMJZeIAtPBzQ
+syncbinancnt.online	TRUE	/	FALSE	1999999999	SameSite	Lax
+

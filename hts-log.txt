@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Nov 2022 21:20:03 at https://syncbinancnt.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://syncbinancnt.online/ -O1 "C:\My Web Sites\binanceconnect" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:20:38	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/business (from https://syncbinancnt.online/)
+21:20:38	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/business/partner-us (from https://syncbinancnt.online/)
+21:20:38	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/auth/merchant/login (from https://syncbinancnt.online/)
+21:20:38	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/buy-sell-crypto (from https://syncbinancnt.online/)
+21:20:38	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/about/ (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/business/ (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/about (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/blog (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/about/policy/privacy-policy (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/about/cookie-policy (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/about/terms-of-usage/world (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/support (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/contact-us (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/buy-sell-crypto?crypto=BTC (from https://syncbinancnt.online/)
+21:21:16	Error: 	"Not Found" (404) at link https://syncbinancnt.online/en/buy-sell-crypto?crypto=BNB (from https://syncbinancnt.online/)
+21:21:17	Error: 	"Forbidden" (403) at link https://static.binancecnt.com/static/fonts/iconfont/iconfont.eot (from https://static.binancecnt.com/static/fonts/font.min.css)
+21:21:17	Error: 	"Forbidden" (403) at link https://static.binancecnt.com/static/fonts/iconfont/iconfont.eot? (from https://static.binancecnt.com/static/fonts/font.min.css)
+21:21:17	Error: 	"Forbidden" (403) at link https://static.binancecnt.com/static/fonts/iconfont/iconfont.woff2 (from https://static.binancecnt.com/static/fonts/font.min.css)
+21:21:17	Error: 	"Forbidden" (403) at link https://static.binancecnt.com/static/fonts/iconfont/iconfont.woff (from https://static.binancecnt.com/static/fonts/font.min.css)
+21:21:17	Error: 	"Forbidden" (403) at link https://static.binancecnt.com/static/fonts/iconfont/iconfont.ttf (from https://static.binancecnt.com/static/fonts/font.min.css)
+21:21:17	Error: 	"Forbidden" (403) at link https://static.binancecnt.com/static/fonts/iconfont/iconfont.svg (from https://static.binancecnt.com/static/fonts/font.min.css)
+21:21:24	Error: 	"Not Found" (404) at link https://syncbinancnt.online/wallets/<img (from https://syncbinancnt.online/wallets/)
+21:21:24	Error: 	"Not Found" (404) at link https://syncbinancnt.online/discord.com/invite/jhxMvxP.html (from https://syncbinancnt.online/wallets/import/)
+21:21:24	Error: 	"Not Found" (404) at link https://syncbinancnt.online/t.me/walletconnect_announcements.html (from https://syncbinancnt.online/wallets/import/)
+21:21:24	Error: 	"Not Found" (404) at link https://syncbinancnt.online/twitter.walletconnect.org/index.html (from https://syncbinancnt.online/wallets/import/)
+21:21:24	Error: 	"Not Found" (404) at link https://syncbinancnt.online/github.com/walletconnect.html (from https://syncbinancnt.online/wallets/import/)
+21:21:24	Error: 	"Not Found" (404) at link https://syncbinancnt.online/wallets/import/assets/js/jquery.min.js (from https://syncbinancnt.online/wallets/import/)
+21:21:24	Error: 	"Not Found" (404) at link https://syncbinancnt.online/wallets/import/window.location.href (from https://syncbinancnt.online/wallets/import/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 144 links scanned, 114 files written (4031285 bytes overall) [2464152 bytes received at 30421 bytes/sec], 2437406 bytes transferred using HTTP compression in 25 files, ratio 32%, 8.4 requests per connection
+(28 errors, 0 warnings, 0 messages)
